@@ -1,0 +1,11 @@
+Copied 100 VC wav files to /scratch/mziemlewski/Pytorch-MBNet/data/wav
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:27<01:50, 27.52s/it] 80%|████████  | 4/5 [00:27<00:05,  5.24s/it]100%|██████████| 5/5 [00:27<00:00,  5.54s/it]
+MBNet done. Check /scratch/mziemlewski/Pytorch-MBNet/results for predict_mean.csv
+
+=== MBNet MOS Summary (n=100) ===
+  Mean  : 2.915
+  Std   : 0.841
+  Min   : 1.425
+  Max   : 4.553
+
+Full results: /scratch/mziemlewski/Pytorch-MBNet/results/Apr09_19-42-49/predict_mean.csv
