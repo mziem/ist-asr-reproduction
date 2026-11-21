@@ -11,7 +11,6 @@ This package accompanies a study investigating fine-tuning strategies and data a
 - `hparams/` — YAML configuration files for all five models
 - `jobs/` — SLURM batch scripts
 - `figures/` — generated result figures
-- `ConfidenceIntervals/` — bootstrap significance testing
 - `cgn_prepare_f.py` — CGN data preparation
 - `jasmin_prepare_f.py` — JASMIN non-native data preparation
 - `vc_prep.py`, `vc_csv_builder.py` — voice conversion augmentation pipeline
